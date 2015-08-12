@@ -1,0 +1,2 @@
+This code implements some population genetics tests and estimators that can be applied to pooled sequences from Next Generation Sequencing experiments.
+The statistics are described in the paper "Population genomics from pool sequencing" by Luca Ferretti et al, Molecular Ecology (2013), DOI: 10.1111/mec.12522.
